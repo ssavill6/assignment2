@@ -4,3 +4,25 @@ body {
     
     font-family: monospace;
 }
+
+
+.red-span {
+    color: red;
+}
+
+.centered {
+/*
+    margin-left: 50px;
+    margin-right: 50px;
+*/
+/*
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; 
+*/
+    
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+    margin: 0 auto 0 auto;
+    width: 80%;
+}
